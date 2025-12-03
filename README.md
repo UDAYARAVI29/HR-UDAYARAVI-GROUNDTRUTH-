@@ -1,4 +1,4 @@
-# Automated AdTech Analytics Pipeline with AI Prediction
+#H-001 The Automated Insight Engine -- Automated AdTech Analytics Pipeline with AI Prediction
 
 ##  Project Overview
 This project is a fully automated **Data Engineering & Analytics System** designed for the AdTech industry. It ingests raw advertising performance data, processes it to calculate key metrics (KPIs), generates trend visualizations, and uses **Machine Learning** to predict future performance.
