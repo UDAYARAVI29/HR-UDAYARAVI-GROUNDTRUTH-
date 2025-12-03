@@ -11,6 +11,7 @@ The final output is a professional, executive-ready **PDF Report** generated aut
 - **AI-Powered Predictions**: Uses a Random Forest model to predict Click-Through Rates (CTR) based on historical data.
 - **Dynamic Visualization**: Generates trend charts for Impressions, Clicks, CTR, and Revenue.
 - **Executive Reporting**: Assembles all insights, charts, and AI predictions into a polished PDF report.
+- **Creates AI-powered natural-language insights using an LLM**
 
 ##  Tech Stack
 - **Python**: Core logic and orchestration.
