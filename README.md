@@ -20,24 +20,6 @@ The final output is a professional, executive-ready **PDF Report** generated aut
 - **Scikit-Learn**: Machine Learning for CTR prediction.
 - **ReportLab**: PDF report generation.
 
-##  Project Structure
-```
-adtech-analytics/
-├── data/
-│   ├── sample_ad_data.csv       # Input data for analysis
-│   └── public_training_data.csv # Historical data for training AI
-├── output/
-│   └── adtech_report.pdf        # Final generated report
-├── src/
-│   ├── data_loader.py           # Data ingestion & cleaning
-│   ├── analytics.py             # KPI calculations
-│   ├── visualization.py         # Chart generation
-│   ├── insights.py              # Narrative generation
-│   ├── ml_model.py              # AI/ML Prediction module
-│   └── report_generator.py      # PDF assembly
-├── main.py                      # Main execution script
-└── requirements.txt             # Project dependencies
-```
 
 ##  Quick Start Guide
 
