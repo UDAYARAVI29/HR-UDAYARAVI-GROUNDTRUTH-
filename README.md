@@ -19,7 +19,8 @@ The final output is a professional, executive-ready **PDF Report** generated aut
 - **Matplotlib**: Data visualization and charting.
 - **Scikit-Learn**: Machine Learning for CTR prediction.
 - **ReportLab**: PDF report generation.
-
+-**Machine Learning**: Scikit-Learn (RandomForestRegressor)
+-**LLM Integration**:	OpenAI API
 
 ##  Quick Start Guide
 
